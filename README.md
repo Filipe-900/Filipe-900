@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Filipe
 
-<!--
-**Filipe-900/Filipe-900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Desenvolvedor de Jogos | Unreal Engine 5 | Blueprints
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
+Sou desenvolvedor focado em criação de jogos usando Unreal Engine 5.
+Trabalho com Blueprints desenvolvendo sistemas de gameplay,
+IA, máquinas de estados e ferramentas reutilizáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Unreal Engine 5
+- C++
+- Blueprints
+
+## 🚀 Projetos em destaque
+- 🎮 [Apocalipse_2010](https://www.fab.com/sellers/Filipe%20777)
+- 🧠 [Better Nodes](https://www.fab.com/listings/e0254709-076f-403d-93be-f39e15378584)
+
+## 📫 Contato
+- [Instagram](https://www.instagram.com/fonsecab777)
