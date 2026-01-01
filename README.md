@@ -13,7 +13,7 @@ IA, máquinas de estados e ferramentas reutilizáveis.
 - Blueprints
 
 ## 🚀 Projetos em destaque
-- 🎮 [Apocalipse_2010](https://www.fab.com/sellers/Filipe%20777)
+- 🎮 [Apocalipse_2010](https://store.epicgames.com/pt-BR/p/apocalipse-2010-5ce281)
 - 🧠 [Better Nodes](https://www.fab.com/listings/e0254709-076f-403d-93be-f39e15378584)
 
 ## 📫 Contato
